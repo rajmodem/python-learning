@@ -10,10 +10,10 @@ __pycache__/
 bin/
 build/
 develop-eggs/
-scripts/
-lib/
+Scripts/
+Lib/
 lib64/
-include/
+Include/
 *.egg-info/
 .installed.cfg
 *.egg
